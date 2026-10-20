@@ -44,6 +44,7 @@ Every tool in this bundle, grouped by category. Details and sources are on each 
 | [winget](../tools/winget.md) | [Windows platform tool](./windows-platform-tools.md) | | ✓ | | MIT |
 | [WSL](../tools/wsl.md) | [Windows platform tool](./windows-platform-tools.md) | | ✓ | | MIT |
 | [Forel](../tools/forel.md) | [macOS utility](./macos-utilities.md) | ✓ | | | GPL-3.0 |
+| [Glim](../tools/glim.md) | [macOS utility](./macos-utilities.md) | ✓ (Apple Silicon and Intel) | | | MIT |
 | [Vorssaint](../tools/vorssaint.md) | [macOS utility](./macos-utilities.md) | ✓ (Apple silicon) | | | GPL-3.0-or-later |
 | [Wick](../tools/wick.md) | [macOS utility](./macos-utilities.md) | ✓ | | | |
 
