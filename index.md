@@ -44,6 +44,7 @@ Software tools worth knowing about (developer tools, everyday apps and self-host
 - [Forel](./tools/forel.md): open-source folder automation for macOS (Hazel alternative).
 - [FreeCommander](./tools/freecommander.md): free dual-panel Windows file manager.
 - [Ghostty](./tools/ghostty.md): native, GPU-accelerated terminal emulator.
+- [Glim](./tools/glim.md): macOS file viewer for documents, data, images and code.
 - [GitHub Copilot CLI](./tools/github-copilot.md): Copilot's coding agent in the terminal.
 - [herdr](./tools/herdr.md): terminal agent multiplexer with a background server.
 - [Hermes Agent](./tools/hermes.md): Nous Research's open-source, self-hosted personal agent.
