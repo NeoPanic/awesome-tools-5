@@ -10,6 +10,7 @@ Small single-purpose Mac applications.
 | Tool | Purpose | Licence | Homebrew |
 | --- | --- | --- | --- |
 | [Forel](../tools/forel.md) | Rule-based folder automation (Hazel alternative) | GPL-3.0 | `--cask lab421/tap/forel` |
+| [Glim](../tools/glim.md) | Document, data, image and source-file viewing; basic UTF-8 editing | MIT | official DMG |
 | [Vorssaint](../tools/vorssaint.md) | Menu bar toolkit: volume mixer, system monitor, window snapping, clipboard history and more | GPL-3.0-or-later | `--cask vorssaint` |
 | [Wick](../tools/wick.md) | Timers, stopwatch and alarms in the menu bar and on the lock screen | | none |
 
